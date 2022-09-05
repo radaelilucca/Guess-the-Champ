@@ -1,0 +1,6 @@
+[submodule "guess-the-champ-client"]
+	path = guess-the-champ-client
+	url = git@github.com:radaelilucca/guess-the-champ-client.git
+[submodule "guess-the-champ-server"]
+	path = guess-the-champ-server
+	url = git@github.com:radaelilucca/guess-the-champ-server.git

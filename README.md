@@ -53,16 +53,16 @@ The [frontend](https://github.com/radaelilucca/guess-the-champ-client) was creat
   <img width="64" height="64" src="/assets/icons/ts.png" alt="Typescript Logo"/>
 </a>
 <a href="https://nodejs.org">
-  <img src="/assets/icons/nodejs.png" alt="Node.js logo"/>
+  <img width="64" height="64" src="/assets/icons/nodejs.png" alt="Node.js logo"/>
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="/assets/icons/postgres.png" alt="Postgresql Logo"/>
+  <img width="64" height="64" src="/assets/icons/postgres.png" alt="Postgresql Logo"/>
 </a>
 <a href="https://typeorm.io/">
-  <img src="/assets/icons/typeorm.png" alt="Typeorm logo"/>
+  <img width="64" height="64" src="/assets/icons/typeorm.png" alt="Typeorm logo"/>
 </a>
 <a href="https://jestjs.io/">
-  <img src="/assets/icons/jest.png" alt="Jest logo"/>
+  <img width="64" height="64" src="/assets/icons/jest.png" alt="Jest logo"/>
 </a>
 
 <br>

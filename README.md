@@ -6,10 +6,10 @@
 
 ### A League of Legends gessing game!
 
-[🎮 The project](#-the-project)
-[🧰 Tech stack](#-tech-stack)
-[➕ Contributing](#-contributing)
-[📝 License](#-license)
+[🎮 The project](#-the-project) &emsp;|&emsp;
+[🧰 Tech stack](#-tech-stack) &emsp;|&emsp;
+[➕ Contributing](#-contributing) &emsp;|&emsp;
+[📝 License](#-license) &emsp;
 
 </div>
 
